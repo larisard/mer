@@ -352,7 +352,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oUZ20gC98ScDetNyqa1P-71" value="fez_curso_profissionalizante boolean (CF.14)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="oUZ20gC98ScDetNyqa1P-69">
+        <mxCell id="oUZ20gC98ScDetNyqa1P-71" value="curso_profissionalizante boolean (CF.14)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="oUZ20gC98ScDetNyqa1P-69">
           <mxGeometry x="30" width="290" height="30" as="geometry">
             <mxRectangle width="290" height="30" as="alternateBounds" />
           </mxGeometry>
