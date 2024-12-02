@@ -449,7 +449,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PhubBDYhbyqGW9C_YqSu-275" value="Local_Residencia" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="-100" width="330" height="380" as="geometry" />
+          <mxGeometry y="-200" width="330" height="380" as="geometry" />
         </mxCell>
         <mxCell id="PhubBDYhbyqGW9C_YqSu-276" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="PhubBDYhbyqGW9C_YqSu-275" vertex="1">
           <mxGeometry y="30" width="330" height="30" as="geometry" />
