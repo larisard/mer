@@ -1691,7 +1691,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NzMzVoMTW3xhQyKC-ZmK-121" value="Empregado_Domestico" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-1080" y="260" width="180" height="50" as="geometry">
+          <mxGeometry x="-910" y="-170" width="180" height="50" as="geometry">
             <mxRectangle x="-1080" y="260" width="340" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1909,7 +1909,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NzMzVoMTW3xhQyKC-ZmK-217" value="Internet" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-1230" y="40" width="180" height="50" as="geometry">
+          <mxGeometry x="-1130" y="-60" width="180" height="50" as="geometry">
             <mxRectangle x="-1110" y="328" width="340" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1966,7 +1966,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NzMzVoMTW3xhQyKC-ZmK-267" value="Dispositivo_Internet" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-1380" y="278" width="180" height="50" as="geometry">
+          <mxGeometry x="-1130" y="35" width="180" height="50" as="geometry">
             <mxRectangle x="-1100" y="500" width="340" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
